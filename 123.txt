@@ -15,11 +15,8 @@ Im now becoming my own self fulfilled prophecy
 Oh, Oh No, Oh No, Oh No-oh!
 
 >>>>>>> f4ed3a7652651015360f2ccc14545e66c858f25f
-<<<<<<< HEAD
 
 Учимся ревертать
 ---------
 
 Еще раз
-=======
->>>>>>> parent of b52a1b5 (learn to revert2)
